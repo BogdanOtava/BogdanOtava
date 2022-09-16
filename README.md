@@ -1,3 +1,9 @@
+## :bulb: About Me
+
+  * Tech Enthusiast & Avid Gamer.
+  * Located in Cluj-Napoca, Romania.
+  * Currently learning Python.
+
 ## :spiral_notepad: GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=True)](https://github.com/BogdanOtava)
