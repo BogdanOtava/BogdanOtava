@@ -1,4 +1,4 @@
-## :bulb: About Me
+## :mag: About Me
 
   * Tech Enthusiast & Avid Gamer.
   * Located in Cluj-Napoca, Romania.
