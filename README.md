@@ -17,6 +17,9 @@
 <a href="https://github.com/BogdanOtava/Twitter-Scraping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Twitter-Scraping&theme=merko" />
 </a>
+<a href="https://github.com/BogdanOtava/Steam-Scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Steam-Scraper&theme=merko" />
+</a>
 <a href="https://github.com/BogdanOtava/Netflix-Report">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Netflix-Report&theme=merko" />
 </a>
