@@ -2,7 +2,7 @@
 
   * Tech Enthusiast & Avid Gamer.
   * Located in Cluj-Napoca, Romania.
-  * Currently learning Python.
+  * Currently learning Python & Java.
 
 ## :spiral_notepad: GitHub Stats
 
