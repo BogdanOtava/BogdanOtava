@@ -6,11 +6,11 @@
 
 ## :spiral_notepad: GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=True&show_icons=True&include_all_commits=True&count_private=True)](https://github.com/BogdanOtava)
+[![Stats](https://github-readme-stats.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=True&show_icons=True&include_all_commits=True)](https://github.com/BogdanOtava)
 
 ## :label: Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanOtava&layout=compact&theme=merko&hide_title=True&langs_count=10)](https://github.com/BogdanOtava)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanOtava&layout=default&theme=merko&hide_title=True&langs_count=10)](https://github.com/BogdanOtava)
 
 ## :computer: Projects
 
@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=QR-Code-Generator&theme=merko" />
 </a>
 
-## :email: Contact Me
+## :email: Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdanotava097@gmail.com)
 
