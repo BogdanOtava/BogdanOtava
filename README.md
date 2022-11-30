@@ -20,14 +20,17 @@
 <a href="https://github.com/BogdanOtava/GUI-Currency-Converter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=GUI-Currency-Converter&theme=merko" />
 </a>
+<a href="https://github.com/BogdanOtava/HLTV-Scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=HLTV-Scraper&theme=merko" />
+</a>
 <a href="https://github.com/BogdanOtava/Steam-Scraper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Steam-Scraper&theme=merko" />
 </a>
-<a href="https://github.com/BogdanOtava/QR-Code-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=QR-Code-Generator&theme=merko" />
-</a>
 <a href="https://github.com/BogdanOtava/Netflix-Report">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Netflix-Report&theme=merko" />
+</a>
+<a href="https://github.com/BogdanOtava/QR-Code-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=QR-Code-Generator&theme=merko" />
 </a>
 
 ## :email: Contact Me
