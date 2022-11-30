@@ -6,7 +6,7 @@
 
 ## :spiral_notepad: GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=True&show_icons=True&include_all_commits=True)](https://github.com/BogdanOtava)
+[![Stats](https://github-readme-stats.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=True&show_icons=True&include_all_commits=True&count_private=False)](https://github.com/BogdanOtava)
 
 ## :label: Languages
 
