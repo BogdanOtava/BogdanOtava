@@ -9,7 +9,7 @@
 
 ## :label: Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanOtava&layout=default&theme=merko&hide_title=True&langs_count=10)](https://github.com/BogdanOtava)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanOtava&layout=default&theme=merko&hide_title=True&langs_count=10&hide=Makefile)](https://github.com/BogdanOtava)
 
 ## :computer: Projects
 
