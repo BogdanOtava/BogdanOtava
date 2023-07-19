@@ -4,24 +4,22 @@
 
 ## :label: Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanOtava&layout=default&theme=merko&hide_title=True&langs_count=10&hide=Makefile)](https://github.com/BogdanOtava)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdanotava&layout=donut&theme=merko)](https://github.com/bogdanotava/github-readme-stats)
 
 ## :computer: Projects
 
-<a href="https://github.com/BogdanOtava/Twitter-Scraping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Twitter-Scraping&theme=merko" />
+<a href="https://github.com/BogdanOtava/Portfolio-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Portfolio-Website&theme=merko" />
 </a>
 <a href="https://github.com/BogdanOtava/GUI-Currency-Converter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=GUI-Currency-Converter&theme=merko" />
 </a>
-<a href="https://github.com/BogdanOtava/HLTV-Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=HLTV-Scraper&theme=merko" />
-</a>
-<a href="https://github.com/BogdanOtava/Steam-Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Steam-Scraper&theme=merko" />
+<a href="https://github.com/BogdanOtava/Twitter-Scraping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Twitter-Scraping&theme=merko" />
 </a>
 <a href="https://github.com/BogdanOtava/Netflix-Report">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Netflix-Report&theme=merko" />
+</a>
 
 ## :email: Socials
 
