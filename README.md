@@ -1,27 +1,27 @@
 ## 🗒️ GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=true&show_icons=true&include_all_commits=true&count_private=false&format=png)](https://github.com/BogdanOtava)
+[![Stats](https://my-repository-coral-one.vercel.app/api?username=BogdanOtava&theme=merko&hide_title=true&show_icons=true&include_all_commits=true&count_private=false)](https://github.com/BogdanOtava)
 
 ## 🏷️ Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanOtava&layout=donut&theme=merko&format=png)](https://github.com/BogdanOtava)
+[![Top Langs](https://my-repository-coral-one.vercel.app/api/top-langs/?username=BogdanOtava&layout=donut&theme=merko)](https://github.com/BogdanOtava)
 
 ## 💻 Projects
 
 <a href="https://github.com/BogdanOtava/Portfolio-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Portfolio-Website&theme=merko&format=png" />
+  <img align="center" src="https://my-repository-coral-one.vercel.app/api/pin/?username=BogdanOtava&repo=Portfolio-Website&theme=merko" />
 </a>
 
 <a href="https://github.com/BogdanOtava/GUI-Currency-Converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=GUI-Currency-Converter&theme=merko&format=png" />
+  <img align="center" src="https://my-repository-coral-one.vercel.app/api/pin/?username=BogdanOtava&repo=GUI-Currency-Converter&theme=merko" />
 </a>
 
 <a href="https://github.com/BogdanOtava/Twitter-Scraping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Twitter-Scraping&theme=merko&format=png" />
+  <img align="center" src="https://my-repository-coral-one.vercel.app/api/pin/?username=BogdanOtava&repo=Twitter-Scraping&theme=merko" />
 </a>
 
 <a href="https://github.com/BogdanOtava/Netflix-Report">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanOtava&repo=Netflix-Report&theme=merko&format=png" />
+  <img align="center" src="https://my-repository-coral-one.vercel.app/api/pin/?username=BogdanOtava&repo=Netflix-Report&theme=merko" />
 </a>
 
 ## 📧 Socials
